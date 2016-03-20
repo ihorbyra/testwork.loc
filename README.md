@@ -1,5 +1,7 @@
 <h2><a href="http://test.uatransport.in.ua/">Посмотреть результат задания</a></h2>
 
+<h2>Задание:</h2>
+
 <p><strong>Технологии:</strong> php, js, jquery.</p>
 
 <p><strong>Входные данные:</strong> предложена строка с несколькими запросами, представленных через запятую.  'adriano celentano, sting, pavarotti caruso, celine dion, michael jackson'.</p> 
